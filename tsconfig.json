@@ -1,0 +1,36 @@
+{
+    "compileOnSave": false,
+    "compilerOptions": {
+        "baseUrl": "./",
+        "outDir": "./dist",
+        "jsx": "react",
+        "sourceMap": true,
+        "allowSyntheticDefaultImports": true,
+        "declaration": false,
+        "downlevelIteration": true,
+        "experimentalDecorators": true,
+        "module": "esnext",
+        "moduleResolution": "node",
+        "allowJs": true,
+        "importHelpers": true,
+        "target": "es2015",
+        "lib": [
+            "es2018",
+            "dom"
+        ],
+        "paths": {
+            "@ui": [
+                "src/ui"
+            ],
+            "@ui/*": [
+                "src/ui/*"
+            ],
+            "@components": [
+                "src/components"
+            ],
+            "@components/*": [
+                "src/components/*"
+            ]
+        }
+    }
+}

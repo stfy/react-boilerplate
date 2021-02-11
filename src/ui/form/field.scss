@@ -1,0 +1,12 @@
+.field {
+  display: block;
+  margin-bottom: 16px;
+  min-width: 260px;
+}
+
+.field__label {
+  display: block;
+  margin-bottom: 5px;
+
+  color: var(--dark-300);
+}

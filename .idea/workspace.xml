@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="cfcb4967-feda-499f-89e7-af1664f52677" name="Default Changelist" comment="chore: add commitizen">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/auth/not-authorized.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/layout/container.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/layout/container.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/layout/header.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/layout/header.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/di/decorator.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/di/decorator.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/di/ioc.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/di/ioc.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/auth/logIn.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/auth/logIn.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/auth/signUp.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/auth/signUp.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/dashboard/dashboard.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/dashboard/dashboard.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/routes.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/routes.tsx" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="Semenyuk Tim &lt;rustfy@gmail.com&gt;" />
+      </list>
+    </option>
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="feature/di" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RESET_MODE" value="SOFT" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="ProjectId" id="1lsL0eFBmf6HCRNgDu22e4csWq2" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ToolWindowRun.ShowToolbar" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$USER_HOME$/goodfin-rework" />
+    <property name="nodejs_package_manager_path" value="yarn" />
+    <property name="ts.external.directory.path" value="C:\Users\semenyuk_ta\dev\funds-hub-web\node_modules\typescript\lib" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\timsq\dev\finca\finca-ui\src" />
+      <recent name="C:\Users\timsq\dev\finca\finca-ui\src\ui\button" />
+    </key>
+  </component>
+  <component name="RunManager" selected="npm.build">
+    <configuration name="build" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="build" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="commit" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="commit" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="dev" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="dev" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs>
+        <env name="API_URL" value="http://localhost:50051" />
+      </envs>
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="npm.commit" />
+      <item itemvalue="npm.dev" />
+      <item itemvalue="npm.build" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="npm.build" />
+        <item itemvalue="npm.dev" />
+        <item itemvalue="npm.commit" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cfcb4967-feda-499f-89e7-af1664f52677" name="Default Changelist" comment="" />
+      <created>1608380629546</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1608380629546</updated>
+      <workItem from="1608380630624" duration="6602000" />
+      <workItem from="1608399827445" duration="8627000" />
+      <workItem from="1608460821414" duration="16188000" />
+      <workItem from="1608536951014" duration="11000" />
+      <workItem from="1609237559784" duration="12164000" />
+      <workItem from="1609272010647" duration="613000" />
+      <workItem from="1609316310222" duration="3003000" />
+      <workItem from="1610273915404" duration="52000" />
+      <workItem from="1610274062259" duration="29000" />
+      <workItem from="1610394199675" duration="6694000" />
+      <workItem from="1610448333434" duration="1864000" />
+      <workItem from="1612799039924" duration="147000" />
+      <workItem from="1612799244787" duration="3220000" />
+      <workItem from="1612895957359" duration="7543000" />
+      <workItem from="1612966487945" duration="83000" />
+      <workItem from="1612969266315" duration="4809000" />
+      <workItem from="1613056707105" duration="631000" />
+    </task>
+    <task id="LOCAL-00001" summary="chore: initialize, dev environment">
+      <created>1608380713863</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1608380713863</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Revert &quot;chore: initialize, dev environment&quot;&#10;&#10;This reverts commit c73e81eb">
+      <created>1608380833389</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1608380833389</updated>
+    </task>
+    <task id="LOCAL-00003" summary="chore: initialize, dev environment">
+      <created>1608380900851</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1608380900851</updated>
+    </task>
+    <task id="LOCAL-00004" summary="chore: initialize, dev environment">
+      <created>1608381070494</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1608381070494</updated>
+    </task>
+    <task id="LOCAL-00005" summary="chore: add commitizen">
+      <created>1608382258180</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1608382258180</updated>
+    </task>
+    <task id="LOCAL-00006" summary="chore: add commitizen">
+      <created>1613056813051</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1613056813051</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Revert &quot;chore: initialize, dev environment&quot;&#10;&#10;This reverts commit c73e81eb" />
+    <MESSAGE value="chore: initialize, dev environment" />
+    <MESSAGE value="chore: add commitizen" />
+    <option name="LAST_COMMIT_MESSAGE" value="chore: add commitizen" />
+    <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
+  </component>
+</project>

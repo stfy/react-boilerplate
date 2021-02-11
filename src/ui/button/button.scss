@@ -1,0 +1,78 @@
+$btn-font-size: 14px;
+$btn-height: 32px;
+$btn-height-large: 42px;
+$btn-min-padding: 0 16px;
+
+.button {
+  display: flex;
+  align-items: center;
+  border-radius: 4px;
+
+  height: $btn-height;
+  line-height: $btn-height;
+  font-size: $btn-font-size;
+  padding: $btn-min-padding;
+
+  outline: none;
+  border: none;
+  cursor: pointer;
+
+  background: var(--default-color);
+  color: var(--text-color);
+  font-weight: var(--regular-weight);
+
+  &:hover {
+    background: var(--lighten-color);
+
+  }
+
+  &:focus,
+  &:active {
+    background: var(--darker-color);
+  }
+}
+
+.button_fluid {
+  display: block;
+  width: 100%;
+}
+
+.button_rounded {
+  $main-color: var(--default-color);
+  $hover-color: var(--lighten-color);
+  $disabled-color: var(--darker-color);
+
+  border: 2px solid $main-color;
+  background: transparent;
+  color: $main-color;
+
+  &:hover,
+  &:focus,
+  &:active,
+  &.button_disabled {
+    background: transparent;
+  }
+
+  &:hover {
+    color: $hover-color;
+    border-color: $hover-color;
+  }
+
+  &:active, &:focus {
+    color: $disabled-color;
+    border-color: $disabled-color;
+  }
+}
+
+.button_disabled {
+  background: var(--light-500);
+}
+
+.button_large {
+  height: $btn-height-large;
+  line-height: $btn-height-large;
+
+  padding: 0 24px;
+  font-size: 16px;
+}
+
